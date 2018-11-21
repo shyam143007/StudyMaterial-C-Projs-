@@ -1,0 +1,6 @@
+C:\Users\syeraboji\source\repos\StudyMaterial\FactoryPattern\bin\Debug\FactoryPattern.dll
+C:\Users\syeraboji\source\repos\StudyMaterial\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\syeraboji\source\repos\StudyMaterial\FactoryPattern\obj\Debug\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\syeraboji\source\repos\StudyMaterial\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\syeraboji\source\repos\StudyMaterial\FactoryPattern\obj\Debug\FactoryPattern.dll
+C:\Users\syeraboji\source\repos\StudyMaterial\FactoryPattern\obj\Debug\FactoryPattern.pdb

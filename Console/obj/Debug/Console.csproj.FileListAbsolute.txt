@@ -1,0 +1,10 @@
+C:\Users\syeraboji\source\repos\StudyMaterial\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\syeraboji\source\repos\StudyMaterial\Console\bin\Debug\Console.exe.config
+C:\Users\syeraboji\source\repos\StudyMaterial\Console\bin\Debug\Console.exe
+C:\Users\syeraboji\source\repos\StudyMaterial\Console\bin\Debug\Console.pdb
+C:\Users\syeraboji\source\repos\StudyMaterial\Console\bin\Debug\FactoryPattern.dll
+C:\Users\syeraboji\source\repos\StudyMaterial\Console\bin\Debug\FactoryPattern.pdb
+C:\Users\syeraboji\source\repos\StudyMaterial\Console\obj\Debug\Console.csprojAssemblyReference.cache
+C:\Users\syeraboji\source\repos\StudyMaterial\Console\obj\Debug\Console.csproj.CopyComplete
+C:\Users\syeraboji\source\repos\StudyMaterial\Console\obj\Debug\Console.exe
+C:\Users\syeraboji\source\repos\StudyMaterial\Console\obj\Debug\Console.pdb
